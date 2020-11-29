@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "밥조",
+  "name": "환자별 식단 관리 프로그램",
   "icons": [
     {
       "src": "favicon.ico",
